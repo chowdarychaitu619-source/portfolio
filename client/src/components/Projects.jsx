@@ -220,7 +220,7 @@ const Projects = () => {
                   View Code
                 </motion.a>
                 <motion.a
-                  href={projects[activeProject].demo}
+                  href="https://servify.zeabur.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05, y: -2 }}
